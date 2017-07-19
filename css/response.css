@@ -108,7 +108,7 @@
     }
     
     /*文章分类*/
-    .content .panel dt a {
+    .content .panel dt .sort {
         display: none;
     }
     
